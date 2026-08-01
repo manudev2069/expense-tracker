@@ -1,0 +1,1143 @@
+transaction_id,user_id,transaction_date,category,description,amount_inr,payment_method
+1,1,2024-01-08,Food,Food & groceries,1381.31,Debit Card
+2,1,2024-01-24,Food,Food & groceries,346.04,Net Banking
+3,1,2024-01-01,Food,Food & groceries,863.51,UPI
+4,1,2024-01-01,Food,Food & groceries,998.68,Net Banking
+5,1,2024-01-18,Food,Food & groceries,1232.81,Cash
+6,1,2024-01-26,Food,Food & groceries,1134.61,UPI
+7,1,2024-01-14,Healthcare,Medicine / consultation,689.06,Credit Card
+8,1,2024-01-25,Food,Food & groceries,528.81,Credit Card
+9,1,2024-01-12,Food,Food & groceries,795.48,Credit Card
+10,1,2024-01-24,Entertainment,Movie / subscription,1481.76,Cash
+11,1,2024-01-13,Shopping,Personal shopping,3413.97,UPI
+12,1,2024-01-20,Shopping,Personal shopping,2954.09,Credit Card
+13,1,2024-02-22,Food,Food & groceries,292.68,Debit Card
+14,1,2024-02-28,Healthcare,Medicine / consultation,2959.36,Debit Card
+15,1,2024-02-15,Travel,Trip / hotel / tickets,2904.73,Credit Card
+16,1,2024-02-22,Food,Food & groceries,755.54,Credit Card
+17,1,2024-02-03,Utilities,Electricity / mobile / internet,1630.39,Net Banking
+18,1,2024-02-08,Entertainment,Movie / subscription,1031.33,Debit Card
+19,1,2024-02-21,Shopping,Personal shopping,1163.83,Net Banking
+20,1,2024-02-25,Food,Food & groceries,705.34,UPI
+21,1,2024-02-11,Food,Food & groceries,232.0,Cash
+22,1,2024-02-19,Food,Food & groceries,521.79,Credit Card
+23,1,2024-02-29,Food,Food & groceries,988.75,Cash
+24,1,2024-03-18,Food,Food & groceries,579.54,Net Banking
+25,1,2024-03-29,Food,Food & groceries,1127.03,Net Banking
+26,1,2024-03-05,Transport,Fuel / cab / metro,325.64,Net Banking
+27,1,2024-03-28,Shopping,Personal shopping,2718.5,UPI
+28,1,2024-03-22,Food,Food & groceries,439.17,Cash
+29,1,2024-03-20,Entertainment,Movie / subscription,784.87,Cash
+30,1,2024-03-28,Shopping,Personal shopping,3407.45,UPI
+31,1,2024-03-29,Utilities,Electricity / mobile / internet,606.19,Net Banking
+32,1,2024-04-10,Healthcare,Medicine / consultation,1185.48,Cash
+33,1,2024-04-24,Food,Food & groceries,185.26,Credit Card
+34,1,2024-04-17,Other,Miscellaneous expense,1166.75,UPI
+35,1,2024-04-21,Travel,Trip / hotel / tickets,2430.98,Net Banking
+36,1,2024-04-25,Entertainment,Movie / subscription,402.18,Debit Card
+37,1,2024-04-17,Shopping,Personal shopping,2791.6,UPI
+38,1,2024-04-04,Entertainment,Movie / subscription,956.2,Credit Card
+39,1,2024-04-10,Travel,Trip / hotel / tickets,5523.66,Debit Card
+40,1,2024-04-03,Housing,Monthly rent / maintenance,16902.09,UPI
+41,1,2024-05-25,Shopping,Personal shopping,521.48,Net Banking
+42,1,2024-05-16,Healthcare,Medicine / consultation,603.08,Net Banking
+43,1,2024-05-20,Food,Food & groceries,1034.83,Cash
+44,1,2024-05-25,Other,Miscellaneous expense,1400.48,Debit Card
+45,1,2024-05-22,Utilities,Electricity / mobile / internet,1118.19,Credit Card
+46,1,2024-05-04,Transport,Fuel / cab / metro,659.68,Debit Card
+47,1,2024-05-19,Food,Food & groceries,727.7,Net Banking
+48,1,2024-05-03,Food,Food & groceries,536.75,UPI
+49,1,2024-05-28,Food,Food & groceries,1646.78,Credit Card
+50,1,2024-05-22,Food,Food & groceries,565.57,Cash
+51,1,2024-05-30,Food,Food & groceries,394.35,Net Banking
+52,1,2024-05-16,Entertainment,Movie / subscription,550.95,Cash
+53,1,2024-06-12,Food,Food & groceries,1247.55,Cash
+54,1,2024-06-02,Transport,Fuel / cab / metro,1047.5,UPI
+55,1,2024-06-26,Housing,Monthly rent / maintenance,15553.92,UPI
+56,1,2024-06-15,Food,Food & groceries,488.14,Debit Card
+57,1,2024-06-08,Transport,Fuel / cab / metro,391.97,UPI
+58,1,2024-06-18,Shopping,Personal shopping,3056.32,UPI
+59,1,2024-06-27,Housing,Monthly rent / maintenance,17993.54,UPI
+60,1,2024-06-28,Other,Miscellaneous expense,1396.91,Debit Card
+61,1,2024-07-28,Transport,Fuel / cab / metro,619.12,Cash
+62,1,2024-07-01,Travel,Trip / hotel / tickets,1654.9,Cash
+63,1,2024-07-15,Food,Food & groceries,1450.19,Credit Card
+64,1,2024-07-26,Transport,Fuel / cab / metro,1152.2,Net Banking
+65,1,2024-07-07,Utilities,Electricity / mobile / internet,1276.01,Credit Card
+66,1,2024-07-24,Food,Food & groceries,274.74,Net Banking
+67,1,2024-07-02,Housing,Monthly rent / maintenance,11822.44,Net Banking
+68,1,2024-07-17,Shopping,Personal shopping,3242.04,Debit Card
+69,1,2024-08-06,Other,Miscellaneous expense,212.16,UPI
+70,1,2024-08-08,Entertainment,Movie / subscription,1264.1,Cash
+71,1,2024-08-08,Food,Food & groceries,1622.27,Net Banking
+72,1,2024-08-14,Entertainment,Movie / subscription,1171.98,Net Banking
+73,1,2024-08-09,Entertainment,Movie / subscription,672.01,Debit Card
+74,1,2024-08-09,Utilities,Electricity / mobile / internet,965.53,Cash
+75,1,2024-08-15,Food,Food & groceries,1225.71,Credit Card
+76,1,2024-09-19,Housing,Monthly rent / maintenance,14590.43,UPI
+77,1,2024-09-09,Food,Food & groceries,525.31,Debit Card
+78,1,2024-09-29,Other,Miscellaneous expense,1333.21,Debit Card
+79,1,2024-09-27,Transport,Fuel / cab / metro,256.68,Net Banking
+80,1,2024-09-26,Utilities,Electricity / mobile / internet,1501.02,Net Banking
+81,1,2024-09-10,Housing,Monthly rent / maintenance,16353.94,UPI
+82,1,2024-09-04,Other,Miscellaneous expense,288.01,UPI
+83,1,2024-10-20,Shopping,Personal shopping,1171.51,Debit Card
+84,1,2024-10-21,Utilities,Electricity / mobile / internet,766.48,Credit Card
+85,1,2024-10-30,Shopping,Personal shopping,1103.59,UPI
+86,1,2024-10-09,Food,Food & groceries,866.19,UPI
+87,1,2024-10-21,Housing,Monthly rent / maintenance,15940.07,Credit Card
+88,1,2024-10-23,Food,Food & groceries,895.77,Cash
+89,1,2024-10-31,Entertainment,Movie / subscription,334.59,Debit Card
+90,1,2024-10-19,Shopping,Personal shopping,2970.7,Net Banking
+91,1,2024-10-10,Food,Food & groceries,386.46,Credit Card
+92,1,2024-10-28,Travel,Trip / hotel / tickets,5317.51,UPI
+93,1,2024-10-08,Travel,Trip / hotel / tickets,1918.44,UPI
+94,1,2024-10-28,Transport,Fuel / cab / metro,707.07,Cash
+95,1,2024-11-08,Healthcare,Medicine / consultation,2795.85,Debit Card
+96,1,2024-11-29,Other,Miscellaneous expense,1235.08,Cash
+97,1,2024-11-11,Housing,Monthly rent / maintenance,15629.08,Cash
+98,1,2024-11-26,Education,Course / books,3956.26,Debit Card
+99,1,2024-11-04,Food,Food & groceries,1455.55,Cash
+100,1,2024-11-08,Travel,Trip / hotel / tickets,5679.84,Debit Card
+101,1,2024-11-10,Education,Course / books,2341.21,Debit Card
+102,1,2024-11-13,Food,Food & groceries,1249.25,Credit Card
+103,1,2024-11-25,Food,Food & groceries,292.46,Credit Card
+104,1,2024-11-22,Transport,Fuel / cab / metro,650.53,Net Banking
+105,1,2024-11-29,Transport,Fuel / cab / metro,110.91,Credit Card
+106,1,2024-12-02,Entertainment,Movie / subscription,1772.86,UPI
+107,1,2024-12-26,Entertainment,Movie / subscription,720.38,Credit Card
+108,1,2024-12-04,Transport,Fuel / cab / metro,1182.34,Cash
+109,1,2024-12-02,Travel,Trip / hotel / tickets,1802.46,Cash
+110,1,2024-12-18,Housing,Monthly rent / maintenance,17330.18,Debit Card
+111,1,2024-12-22,Transport,Fuel / cab / metro,158.37,Credit Card
+112,1,2024-12-04,Entertainment,Movie / subscription,1244.59,Credit Card
+113,1,2024-12-11,Shopping,Personal shopping,2434.06,Cash
+114,1,2025-01-14,Transport,Fuel / cab / metro,222.56,Cash
+115,1,2025-01-20,Utilities,Electricity / mobile / internet,2025.05,Net Banking
+116,1,2025-01-01,Transport,Fuel / cab / metro,693.69,Credit Card
+117,1,2025-01-19,Food,Food & groceries,876.42,Net Banking
+118,1,2025-01-15,Utilities,Electricity / mobile / internet,1236.98,Debit Card
+119,1,2025-01-31,Shopping,Personal shopping,2839.95,Debit Card
+120,1,2025-01-22,Utilities,Electricity / mobile / internet,910.82,Net Banking
+121,1,2025-01-25,Transport,Fuel / cab / metro,996.63,Debit Card
+122,1,2025-01-07,Utilities,Electricity / mobile / internet,804.35,Debit Card
+123,1,2025-01-16,Housing,Monthly rent / maintenance,11203.58,Net Banking
+124,1,2025-01-14,Education,Course / books,791.31,Net Banking
+125,1,2025-01-16,Food,Food & groceries,1308.09,Cash
+126,1,2025-02-25,Food,Food & groceries,1293.95,UPI
+127,1,2025-02-26,Healthcare,Medicine / consultation,851.81,Net Banking
+128,1,2025-02-28,Shopping,Personal shopping,2083.7,UPI
+129,1,2025-02-22,Shopping,Personal shopping,2864.53,Net Banking
+130,1,2025-02-25,Other,Miscellaneous expense,933.63,Cash
+131,1,2025-02-17,Entertainment,Movie / subscription,1336.8,Cash
+132,1,2025-02-06,Education,Course / books,2691.49,Cash
+133,1,2025-02-27,Shopping,Personal shopping,2705.69,Credit Card
+134,1,2025-03-15,Shopping,Personal shopping,1065.59,UPI
+135,1,2025-03-11,Utilities,Electricity / mobile / internet,822.09,Credit Card
+136,1,2025-03-05,Travel,Trip / hotel / tickets,1167.35,Debit Card
+137,1,2025-03-07,Transport,Fuel / cab / metro,251.14,UPI
+138,1,2025-03-15,Transport,Fuel / cab / metro,450.59,Cash
+139,1,2025-03-13,Housing,Monthly rent / maintenance,16496.02,Net Banking
+140,1,2025-03-29,Other,Miscellaneous expense,127.34,Net Banking
+141,1,2025-03-12,Transport,Fuel / cab / metro,86.6,Credit Card
+142,1,2025-03-31,Healthcare,Medicine / consultation,2596.98,Cash
+143,1,2025-03-26,Shopping,Personal shopping,2650.83,Net Banking
+144,1,2025-03-09,Travel,Trip / hotel / tickets,3531.73,Cash
+145,1,2025-04-22,Housing,Monthly rent / maintenance,12025.17,Cash
+146,1,2025-04-30,Utilities,Electricity / mobile / internet,1912.91,Debit Card
+147,1,2025-04-30,Other,Miscellaneous expense,847.77,Cash
+148,1,2025-04-03,Entertainment,Movie / subscription,1243.95,Cash
+149,1,2025-04-02,Food,Food & groceries,927.95,Credit Card
+150,1,2025-04-11,Transport,Fuel / cab / metro,317.06,Credit Card
+151,1,2025-04-25,Healthcare,Medicine / consultation,1292.6,Cash
+152,1,2025-04-01,Food,Food & groceries,312.69,Net Banking
+153,1,2025-04-08,Housing,Monthly rent / maintenance,17567.28,UPI
+154,1,2025-04-25,Healthcare,Medicine / consultation,2042.33,UPI
+155,1,2025-05-05,Food,Food & groceries,213.02,Debit Card
+156,1,2025-05-19,Food,Food & groceries,1264.52,Debit Card
+157,1,2025-05-12,Shopping,Personal shopping,1119.98,Debit Card
+158,1,2025-05-23,Entertainment,Movie / subscription,1740.16,UPI
+159,1,2025-05-10,Healthcare,Medicine / consultation,700.36,UPI
+160,1,2025-05-19,Entertainment,Movie / subscription,1682.66,Cash
+161,1,2025-05-03,Transport,Fuel / cab / metro,880.82,Net Banking
+162,1,2025-05-04,Utilities,Electricity / mobile / internet,1529.04,Credit Card
+163,1,2025-06-19,Entertainment,Movie / subscription,349.74,UPI
+164,1,2025-06-12,Transport,Fuel / cab / metro,559.78,UPI
+165,1,2025-06-28,Shopping,Personal shopping,1391.94,Cash
+166,1,2025-06-12,Education,Course / books,922.16,Cash
+167,1,2025-06-24,Utilities,Electricity / mobile / internet,1183.88,Net Banking
+168,1,2025-06-26,Other,Miscellaneous expense,478.12,Net Banking
+169,1,2025-06-27,Healthcare,Medicine / consultation,1528.4,Net Banking
+170,1,2025-06-27,Food,Food & groceries,1559.78,UPI
+171,1,2025-06-25,Food,Food & groceries,910.3,Cash
+172,1,2025-06-11,Entertainment,Movie / subscription,1252.51,UPI
+173,1,2025-06-16,Shopping,Personal shopping,1340.05,Debit Card
+174,1,2025-06-09,Transport,Fuel / cab / metro,369.35,Net Banking
+175,1,2025-07-17,Travel,Trip / hotel / tickets,3923.59,Debit Card
+176,1,2025-07-16,Food,Food & groceries,1346.52,Net Banking
+177,1,2025-07-21,Healthcare,Medicine / consultation,2149.18,Cash
+178,1,2025-07-10,Shopping,Personal shopping,355.18,Debit Card
+179,1,2025-07-22,Transport,Fuel / cab / metro,352.5,Net Banking
+180,1,2025-07-12,Transport,Fuel / cab / metro,699.89,Cash
+181,1,2025-07-12,Other,Miscellaneous expense,870.54,Cash
+182,1,2025-07-04,Food,Food & groceries,587.27,Debit Card
+183,1,2025-07-31,Transport,Fuel / cab / metro,912.03,Debit Card
+184,1,2025-07-09,Food,Food & groceries,1376.54,Net Banking
+185,1,2025-07-10,Other,Miscellaneous expense,834.49,UPI
+186,1,2025-07-12,Education,Course / books,1684.99,Debit Card
+187,1,2025-08-09,Housing,Monthly rent / maintenance,13807.22,UPI
+188,1,2025-08-23,Other,Miscellaneous expense,874.7,Debit Card
+189,1,2025-08-04,Entertainment,Movie / subscription,1392.11,UPI
+190,1,2025-08-15,Entertainment,Movie / subscription,924.5,Credit Card
+191,1,2025-08-31,Food,Food & groceries,263.23,Cash
+192,1,2025-08-16,Food,Food & groceries,285.86,UPI
+193,1,2025-08-05,Entertainment,Movie / subscription,1282.64,Debit Card
+194,1,2025-08-03,Education,Course / books,4296.5,Debit Card
+195,1,2025-08-20,Food,Food & groceries,1418.4,Net Banking
+196,1,2025-09-15,Food,Food & groceries,1026.57,Cash
+197,1,2025-09-14,Transport,Fuel / cab / metro,739.15,Credit Card
+198,1,2025-09-24,Entertainment,Movie / subscription,249.38,UPI
+199,1,2025-09-07,Other,Miscellaneous expense,390.9,Credit Card
+200,1,2025-09-06,Utilities,Electricity / mobile / internet,682.7,Net Banking
+201,1,2025-09-15,Food,Food & groceries,184.33,Net Banking
+202,1,2025-09-10,Shopping,Personal shopping,404.45,Credit Card
+203,1,2025-09-22,Utilities,Electricity / mobile / internet,1217.26,Debit Card
+204,1,2025-09-21,Other,Miscellaneous expense,1202.96,Net Banking
+205,1,2025-09-14,Utilities,Electricity / mobile / internet,2080.6,UPI
+206,1,2025-09-30,Shopping,Personal shopping,2372.43,Credit Card
+207,1,2025-10-10,Food,Food & groceries,448.79,Net Banking
+208,1,2025-10-10,Healthcare,Medicine / consultation,1815.32,Cash
+209,1,2025-10-23,Food,Food & groceries,1295.66,Cash
+210,1,2025-10-16,Other,Miscellaneous expense,800.66,Cash
+211,1,2025-10-14,Food,Food & groceries,244.57,Credit Card
+212,1,2025-10-08,Entertainment,Movie / subscription,192.68,Net Banking
+213,1,2025-10-25,Entertainment,Movie / subscription,184.23,Credit Card
+214,1,2025-10-06,Entertainment,Movie / subscription,1409.13,Cash
+215,1,2025-11-06,Utilities,Electricity / mobile / internet,2048.93,Net Banking
+216,1,2025-11-03,Transport,Fuel / cab / metro,991.95,Cash
+217,1,2025-11-22,Transport,Fuel / cab / metro,453.31,UPI
+218,1,2025-11-23,Travel,Trip / hotel / tickets,2612.86,Cash
+219,1,2025-11-27,Food,Food & groceries,1711.21,Net Banking
+220,1,2025-11-09,Housing,Monthly rent / maintenance,9792.54,Credit Card
+221,1,2025-11-28,Food,Food & groceries,1431.53,Net Banking
+222,1,2025-11-28,Education,Course / books,504.6,Net Banking
+223,1,2025-11-17,Shopping,Personal shopping,473.45,Credit Card
+224,1,2025-11-15,Entertainment,Movie / subscription,972.51,UPI
+225,1,2025-11-30,Food,Food & groceries,1069.74,Credit Card
+226,1,2025-12-01,Travel,Trip / hotel / tickets,3511.33,Net Banking
+227,1,2025-12-10,Healthcare,Medicine / consultation,2201.9,Net Banking
+228,1,2025-12-08,Housing,Monthly rent / maintenance,12671.92,UPI
+229,1,2025-12-27,Shopping,Personal shopping,675.89,Debit Card
+230,1,2025-12-17,Shopping,Personal shopping,2593.13,Credit Card
+231,1,2025-12-16,Transport,Fuel / cab / metro,620.4,Debit Card
+232,1,2025-12-07,Shopping,Personal shopping,762.85,Net Banking
+233,1,2025-12-28,Shopping,Personal shopping,3113.84,UPI
+234,1,2025-12-14,Food,Food & groceries,1459.81,Credit Card
+235,1,2025-12-27,Other,Miscellaneous expense,810.83,UPI
+236,2,2024-01-19,Utilities,Electricity / mobile / internet,1907.46,Cash
+237,2,2024-01-16,Travel,Trip / hotel / tickets,3289.97,Credit Card
+238,2,2024-01-13,Transport,Fuel / cab / metro,934.42,Cash
+239,2,2024-01-23,Other,Miscellaneous expense,1317.44,Debit Card
+240,2,2024-01-25,Entertainment,Movie / subscription,535.38,Cash
+241,2,2024-01-23,Housing,Monthly rent / maintenance,15702.35,Cash
+242,2,2024-01-27,Transport,Fuel / cab / metro,823.33,Debit Card
+243,2,2024-01-17,Shopping,Personal shopping,418.46,Net Banking
+244,2,2024-01-28,Transport,Fuel / cab / metro,192.41,Cash
+245,2,2024-02-24,Shopping,Personal shopping,1762.17,Debit Card
+246,2,2024-02-05,Transport,Fuel / cab / metro,813.36,UPI
+247,2,2024-02-11,Shopping,Personal shopping,3401.45,Net Banking
+248,2,2024-02-28,Utilities,Electricity / mobile / internet,1569.71,Credit Card
+249,2,2024-02-13,Travel,Trip / hotel / tickets,5684.18,Credit Card
+250,2,2024-02-16,Entertainment,Movie / subscription,1614.27,Net Banking
+251,2,2024-02-21,Housing,Monthly rent / maintenance,9615.79,Credit Card
+252,2,2024-03-04,Healthcare,Medicine / consultation,1443.42,UPI
+253,2,2024-03-29,Shopping,Personal shopping,2520.8,UPI
+254,2,2024-03-10,Housing,Monthly rent / maintenance,16165.29,Credit Card
+255,2,2024-03-17,Transport,Fuel / cab / metro,243.04,Cash
+256,2,2024-03-06,Entertainment,Movie / subscription,1457.66,Debit Card
+257,2,2024-03-20,Food,Food & groceries,1590.76,Debit Card
+258,2,2024-03-08,Shopping,Personal shopping,2166.1,Cash
+259,2,2024-03-22,Entertainment,Movie / subscription,908.29,UPI
+260,2,2024-04-06,Travel,Trip / hotel / tickets,4630.14,UPI
+261,2,2024-04-19,Shopping,Personal shopping,1405.81,Credit Card
+262,2,2024-04-09,Entertainment,Movie / subscription,850.11,Cash
+263,2,2024-04-13,Education,Course / books,1296.87,Cash
+264,2,2024-04-12,Food,Food & groceries,797.81,Net Banking
+265,2,2024-04-01,Transport,Fuel / cab / metro,863.19,Cash
+266,2,2024-04-22,Food,Food & groceries,1096.81,UPI
+267,2,2024-04-27,Travel,Trip / hotel / tickets,5022.0,Credit Card
+268,2,2024-04-26,Healthcare,Medicine / consultation,882.83,Credit Card
+269,2,2024-04-09,Food,Food & groceries,488.01,Debit Card
+270,2,2024-05-02,Food,Food & groceries,1196.48,Credit Card
+271,2,2024-05-12,Healthcare,Medicine / consultation,341.75,Debit Card
+272,2,2024-05-24,Food,Food & groceries,658.08,Cash
+273,2,2024-05-18,Food,Food & groceries,394.1,Credit Card
+274,2,2024-05-27,Shopping,Personal shopping,3223.16,Debit Card
+275,2,2024-05-16,Food,Food & groceries,1516.0,Credit Card
+276,2,2024-05-04,Healthcare,Medicine / consultation,1181.47,Cash
+277,2,2024-05-31,Other,Miscellaneous expense,297.06,Debit Card
+278,2,2024-05-13,Travel,Trip / hotel / tickets,4900.46,Net Banking
+279,2,2024-05-01,Transport,Fuel / cab / metro,965.56,Credit Card
+280,2,2024-05-22,Shopping,Personal shopping,1755.32,Credit Card
+281,2,2024-05-31,Entertainment,Movie / subscription,1506.99,Credit Card
+282,2,2024-06-20,Utilities,Electricity / mobile / internet,1248.66,Net Banking
+283,2,2024-06-21,Transport,Fuel / cab / metro,763.29,UPI
+284,2,2024-06-23,Entertainment,Movie / subscription,916.04,Credit Card
+285,2,2024-06-02,Utilities,Electricity / mobile / internet,610.02,UPI
+286,2,2024-06-04,Transport,Fuel / cab / metro,631.74,Debit Card
+287,2,2024-06-15,Travel,Trip / hotel / tickets,1486.85,Credit Card
+288,2,2024-06-18,Utilities,Electricity / mobile / internet,1737.65,Cash
+289,2,2024-07-14,Healthcare,Medicine / consultation,674.94,UPI
+290,2,2024-07-31,Education,Course / books,2962.61,Credit Card
+291,2,2024-07-15,Housing,Monthly rent / maintenance,12334.77,Cash
+292,2,2024-07-04,Other,Miscellaneous expense,1297.63,Credit Card
+293,2,2024-07-12,Shopping,Personal shopping,3429.1,UPI
+294,2,2024-07-04,Transport,Fuel / cab / metro,292.59,Cash
+295,2,2024-07-21,Food,Food & groceries,523.61,Net Banking
+296,2,2024-07-11,Other,Miscellaneous expense,170.81,Debit Card
+297,2,2024-07-07,Other,Miscellaneous expense,1201.77,UPI
+298,2,2024-07-19,Education,Course / books,2716.83,Debit Card
+299,2,2024-07-25,Education,Course / books,1431.99,Debit Card
+300,2,2024-08-05,Housing,Monthly rent / maintenance,16725.66,Debit Card
+301,2,2024-08-04,Shopping,Personal shopping,2855.24,UPI
+302,2,2024-08-26,Food,Food & groceries,760.35,Debit Card
+303,2,2024-08-09,Entertainment,Movie / subscription,176.04,UPI
+304,2,2024-08-04,Food,Food & groceries,861.96,UPI
+305,2,2024-08-17,Shopping,Personal shopping,2789.65,Net Banking
+306,2,2024-08-31,Food,Food & groceries,996.22,Net Banking
+307,2,2024-08-28,Housing,Monthly rent / maintenance,16049.04,Net Banking
+308,2,2024-08-01,Transport,Fuel / cab / metro,800.54,UPI
+309,2,2024-08-14,Other,Miscellaneous expense,1286.22,UPI
+310,2,2024-08-03,Shopping,Personal shopping,3211.04,UPI
+311,2,2024-09-09,Entertainment,Movie / subscription,258.38,Net Banking
+312,2,2024-09-11,Entertainment,Movie / subscription,1054.79,Cash
+313,2,2024-09-15,Other,Miscellaneous expense,842.78,Net Banking
+314,2,2024-09-23,Entertainment,Movie / subscription,313.64,UPI
+315,2,2024-09-25,Travel,Trip / hotel / tickets,4475.32,Net Banking
+316,2,2024-09-15,Utilities,Electricity / mobile / internet,787.04,Debit Card
+317,2,2024-09-13,Transport,Fuel / cab / metro,1006.71,Cash
+318,2,2024-09-11,Utilities,Electricity / mobile / internet,962.59,Credit Card
+319,2,2024-09-30,Transport,Fuel / cab / metro,250.96,Cash
+320,2,2024-10-14,Food,Food & groceries,318.29,UPI
+321,2,2024-10-05,Healthcare,Medicine / consultation,1274.78,Net Banking
+322,2,2024-10-18,Housing,Monthly rent / maintenance,17609.62,Credit Card
+323,2,2024-10-28,Utilities,Electricity / mobile / internet,1139.46,Cash
+324,2,2024-10-31,Travel,Trip / hotel / tickets,4882.15,Credit Card
+325,2,2024-10-19,Entertainment,Movie / subscription,730.22,Net Banking
+326,2,2024-10-08,Food,Food & groceries,1243.91,UPI
+327,2,2024-11-25,Education,Course / books,1970.24,Credit Card
+328,2,2024-11-28,Entertainment,Movie / subscription,1481.92,Net Banking
+329,2,2024-11-20,Other,Miscellaneous expense,1245.8,Net Banking
+330,2,2024-11-27,Housing,Monthly rent / maintenance,17361.76,Credit Card
+331,2,2024-11-25,Housing,Monthly rent / maintenance,11459.43,Credit Card
+332,2,2024-11-06,Other,Miscellaneous expense,591.43,Debit Card
+333,2,2024-11-05,Entertainment,Movie / subscription,811.29,UPI
+334,2,2024-11-13,Food,Food & groceries,1039.38,Cash
+335,2,2024-11-10,Shopping,Personal shopping,803.71,Credit Card
+336,2,2024-12-05,Entertainment,Movie / subscription,1607.51,Debit Card
+337,2,2024-12-03,Healthcare,Medicine / consultation,386.85,Credit Card
+338,2,2024-12-20,Shopping,Personal shopping,1656.85,Cash
+339,2,2024-12-17,Transport,Fuel / cab / metro,321.44,UPI
+340,2,2024-12-22,Transport,Fuel / cab / metro,204.2,Net Banking
+341,2,2024-12-02,Shopping,Personal shopping,2434.82,Debit Card
+342,2,2024-12-01,Transport,Fuel / cab / metro,751.24,Debit Card
+343,2,2024-12-05,Transport,Fuel / cab / metro,316.58,Credit Card
+344,2,2024-12-16,Food,Food & groceries,374.37,Cash
+345,2,2024-12-23,Food,Food & groceries,795.94,Debit Card
+346,2,2024-12-26,Shopping,Personal shopping,2966.73,Credit Card
+347,2,2025-01-14,Transport,Fuel / cab / metro,911.09,UPI
+348,2,2025-01-11,Shopping,Personal shopping,549.16,Net Banking
+349,2,2025-01-21,Transport,Fuel / cab / metro,532.95,Cash
+350,2,2025-01-31,Food,Food & groceries,836.15,Credit Card
+351,2,2025-01-15,Food,Food & groceries,1715.14,Credit Card
+352,2,2025-01-08,Food,Food & groceries,1548.06,Cash
+353,2,2025-01-13,Entertainment,Movie / subscription,1014.54,Credit Card
+354,2,2025-02-06,Transport,Fuel / cab / metro,453.04,UPI
+355,2,2025-02-17,Shopping,Personal shopping,664.89,Debit Card
+356,2,2025-02-24,Travel,Trip / hotel / tickets,2726.38,Debit Card
+357,2,2025-02-07,Food,Food & groceries,417.24,Debit Card
+358,2,2025-02-21,Entertainment,Movie / subscription,1404.36,UPI
+359,2,2025-02-16,Food,Food & groceries,1432.01,Cash
+360,2,2025-02-15,Healthcare,Medicine / consultation,2339.66,Net Banking
+361,2,2025-02-11,Utilities,Electricity / mobile / internet,2175.76,Credit Card
+362,2,2025-02-15,Food,Food & groceries,290.62,Credit Card
+363,2,2025-02-12,Healthcare,Medicine / consultation,1876.4,Net Banking
+364,2,2025-02-02,Food,Food & groceries,928.02,UPI
+365,2,2025-02-21,Transport,Fuel / cab / metro,401.53,UPI
+366,2,2025-03-19,Entertainment,Movie / subscription,784.4,Net Banking
+367,2,2025-03-02,Other,Miscellaneous expense,1134.49,Cash
+368,2,2025-03-07,Travel,Trip / hotel / tickets,4015.61,Credit Card
+369,2,2025-03-31,Entertainment,Movie / subscription,977.26,UPI
+370,2,2025-03-27,Shopping,Personal shopping,2895.09,Credit Card
+371,2,2025-03-21,Other,Miscellaneous expense,218.06,Debit Card
+372,2,2025-03-15,Housing,Monthly rent / maintenance,15368.6,Net Banking
+373,2,2025-03-12,Shopping,Personal shopping,807.99,Credit Card
+374,2,2025-03-22,Transport,Fuel / cab / metro,947.4,Net Banking
+375,2,2025-03-11,Housing,Monthly rent / maintenance,14677.98,UPI
+376,2,2025-03-13,Transport,Fuel / cab / metro,704.92,Credit Card
+377,2,2025-04-30,Utilities,Electricity / mobile / internet,1581.82,Net Banking
+378,2,2025-04-19,Travel,Trip / hotel / tickets,2633.5,Debit Card
+379,2,2025-04-21,Travel,Trip / hotel / tickets,2499.34,Cash
+380,2,2025-04-03,Food,Food & groceries,1328.31,Credit Card
+381,2,2025-04-11,Shopping,Personal shopping,2359.18,Debit Card
+382,2,2025-04-24,Utilities,Electricity / mobile / internet,1892.13,Net Banking
+383,2,2025-04-17,Food,Food & groceries,1266.14,Credit Card
+384,2,2025-04-07,Housing,Monthly rent / maintenance,11779.79,Credit Card
+385,2,2025-04-08,Other,Miscellaneous expense,780.78,Debit Card
+386,2,2025-05-04,Food,Food & groceries,1547.97,Net Banking
+387,2,2025-05-29,Healthcare,Medicine / consultation,2546.58,Net Banking
+388,2,2025-05-25,Housing,Monthly rent / maintenance,12030.88,Net Banking
+389,2,2025-05-06,Food,Food & groceries,790.29,Debit Card
+390,2,2025-05-26,Education,Course / books,3584.39,Debit Card
+391,2,2025-05-12,Utilities,Electricity / mobile / internet,478.65,Debit Card
+392,2,2025-05-25,Other,Miscellaneous expense,954.83,Cash
+393,2,2025-05-31,Food,Food & groceries,567.45,Cash
+394,2,2025-06-15,Transport,Fuel / cab / metro,1140.79,Cash
+395,2,2025-06-17,Healthcare,Medicine / consultation,2389.84,Net Banking
+396,2,2025-06-07,Transport,Fuel / cab / metro,261.51,Net Banking
+397,2,2025-06-21,Food,Food & groceries,585.01,Cash
+398,2,2025-06-04,Travel,Trip / hotel / tickets,3916.34,Net Banking
+399,2,2025-06-25,Travel,Trip / hotel / tickets,2353.37,Debit Card
+400,2,2025-06-05,Food,Food & groceries,1646.6,Cash
+401,2,2025-06-27,Food,Food & groceries,1655.02,Cash
+402,2,2025-07-13,Other,Miscellaneous expense,680.86,Net Banking
+403,2,2025-07-03,Transport,Fuel / cab / metro,512.51,Credit Card
+404,2,2025-07-04,Food,Food & groceries,696.27,Credit Card
+405,2,2025-07-10,Healthcare,Medicine / consultation,628.4,Cash
+406,2,2025-07-23,Utilities,Electricity / mobile / internet,649.83,Cash
+407,2,2025-07-03,Shopping,Personal shopping,316.8,UPI
+408,2,2025-07-18,Food,Food & groceries,1532.64,Net Banking
+409,2,2025-07-10,Shopping,Personal shopping,655.8,Debit Card
+410,2,2025-07-14,Transport,Fuel / cab / metro,133.48,Net Banking
+411,2,2025-08-16,Housing,Monthly rent / maintenance,16530.19,Net Banking
+412,2,2025-08-19,Shopping,Personal shopping,2322.26,Debit Card
+413,2,2025-08-01,Utilities,Electricity / mobile / internet,924.29,Net Banking
+414,2,2025-08-06,Transport,Fuel / cab / metro,719.14,UPI
+415,2,2025-08-31,Shopping,Personal shopping,1453.93,Net Banking
+416,2,2025-08-17,Shopping,Personal shopping,2816.52,Net Banking
+417,2,2025-08-02,Housing,Monthly rent / maintenance,16859.98,Cash
+418,2,2025-08-01,Other,Miscellaneous expense,455.11,Credit Card
+419,2,2025-08-24,Healthcare,Medicine / consultation,1198.21,UPI
+420,2,2025-08-11,Healthcare,Medicine / consultation,2271.76,Debit Card
+421,2,2025-09-21,Transport,Fuel / cab / metro,459.17,Debit Card
+422,2,2025-09-23,Education,Course / books,3238.73,Cash
+423,2,2025-09-03,Entertainment,Movie / subscription,1488.97,Cash
+424,2,2025-09-26,Housing,Monthly rent / maintenance,10814.32,Debit Card
+425,2,2025-09-10,Travel,Trip / hotel / tickets,2530.46,Net Banking
+426,2,2025-09-16,Transport,Fuel / cab / metro,993.25,Credit Card
+427,2,2025-09-10,Housing,Monthly rent / maintenance,14822.1,Credit Card
+428,2,2025-10-04,Travel,Trip / hotel / tickets,2625.16,Credit Card
+429,2,2025-10-15,Transport,Fuel / cab / metro,528.02,Cash
+430,2,2025-10-23,Transport,Fuel / cab / metro,289.24,Cash
+431,2,2025-10-09,Transport,Fuel / cab / metro,972.97,UPI
+432,2,2025-10-20,Utilities,Electricity / mobile / internet,542.07,Debit Card
+433,2,2025-10-03,Shopping,Personal shopping,1327.88,Credit Card
+434,2,2025-10-20,Utilities,Electricity / mobile / internet,951.69,Cash
+435,2,2025-11-02,Utilities,Electricity / mobile / internet,1032.78,Credit Card
+436,2,2025-11-21,Entertainment,Movie / subscription,867.65,UPI
+437,2,2025-11-12,Food,Food & groceries,1212.77,Net Banking
+438,2,2025-11-01,Education,Course / books,3217.64,Debit Card
+439,2,2025-11-15,Education,Course / books,3212.36,UPI
+440,2,2025-11-21,Food,Food & groceries,562.31,Credit Card
+441,2,2025-11-02,Transport,Fuel / cab / metro,1143.4,Net Banking
+442,2,2025-11-12,Food,Food & groceries,908.87,Credit Card
+443,2,2025-12-17,Healthcare,Medicine / consultation,1828.28,Credit Card
+444,2,2025-12-08,Transport,Fuel / cab / metro,807.51,UPI
+445,2,2025-12-17,Housing,Monthly rent / maintenance,10674.43,Cash
+446,2,2025-12-25,Travel,Trip / hotel / tickets,1383.01,Credit Card
+447,2,2025-12-20,Utilities,Electricity / mobile / internet,786.23,Credit Card
+448,2,2025-12-07,Utilities,Electricity / mobile / internet,2197.53,UPI
+449,2,2025-12-06,Food,Food & groceries,299.96,Cash
+450,2,2025-12-31,Other,Miscellaneous expense,1234.72,Credit Card
+451,2,2025-12-18,Utilities,Electricity / mobile / internet,1677.17,Net Banking
+452,2,2025-12-06,Transport,Fuel / cab / metro,415.95,Debit Card
+453,3,2024-01-07,Shopping,Personal shopping,688.36,Debit Card
+454,3,2024-01-12,Food,Food & groceries,980.32,Net Banking
+455,3,2024-01-18,Entertainment,Movie / subscription,921.22,Debit Card
+456,3,2024-01-10,Entertainment,Movie / subscription,292.26,Cash
+457,3,2024-01-17,Other,Miscellaneous expense,1106.42,Cash
+458,3,2024-01-03,Healthcare,Medicine / consultation,2514.18,Debit Card
+459,3,2024-01-15,Other,Miscellaneous expense,999.27,Cash
+460,3,2024-01-29,Utilities,Electricity / mobile / internet,1020.13,Net Banking
+461,3,2024-01-31,Entertainment,Movie / subscription,450.24,Debit Card
+462,3,2024-02-27,Shopping,Personal shopping,3078.28,UPI
+463,3,2024-02-06,Shopping,Personal shopping,1273.2,Credit Card
+464,3,2024-02-17,Other,Miscellaneous expense,415.66,Credit Card
+465,3,2024-02-21,Education,Course / books,1502.42,Net Banking
+466,3,2024-02-20,Food,Food & groceries,1192.54,Net Banking
+467,3,2024-02-19,Food,Food & groceries,1218.4,Net Banking
+468,3,2024-02-24,Food,Food & groceries,1247.15,Net Banking
+469,3,2024-02-02,Transport,Fuel / cab / metro,1114.8,UPI
+470,3,2024-02-25,Food,Food & groceries,1716.65,Net Banking
+471,3,2024-02-19,Food,Food & groceries,521.51,Cash
+472,3,2024-03-21,Entertainment,Movie / subscription,971.76,Net Banking
+473,3,2024-03-16,Food,Food & groceries,1729.77,Debit Card
+474,3,2024-03-10,Education,Course / books,3239.96,Cash
+475,3,2024-03-15,Food,Food & groceries,277.06,Cash
+476,3,2024-03-20,Shopping,Personal shopping,952.87,Debit Card
+477,3,2024-03-24,Transport,Fuel / cab / metro,884.57,Credit Card
+478,3,2024-03-12,Other,Miscellaneous expense,283.07,Net Banking
+479,3,2024-03-15,Entertainment,Movie / subscription,676.54,UPI
+480,3,2024-03-04,Food,Food & groceries,581.63,UPI
+481,3,2024-03-20,Transport,Fuel / cab / metro,510.25,Cash
+482,3,2024-03-06,Food,Food & groceries,1581.8,Credit Card
+483,3,2024-04-06,Utilities,Electricity / mobile / internet,741.7,Cash
+484,3,2024-04-29,Other,Miscellaneous expense,753.54,Credit Card
+485,3,2024-04-13,Shopping,Personal shopping,588.16,Net Banking
+486,3,2024-04-19,Shopping,Personal shopping,1070.33,Credit Card
+487,3,2024-04-20,Housing,Monthly rent / maintenance,11532.21,Cash
+488,3,2024-04-04,Food,Food & groceries,193.25,Cash
+489,3,2024-04-12,Food,Food & groceries,608.45,Cash
+490,3,2024-04-19,Transport,Fuel / cab / metro,528.65,Net Banking
+491,3,2024-04-03,Food,Food & groceries,1076.22,Cash
+492,3,2024-04-09,Shopping,Personal shopping,2746.09,Net Banking
+493,3,2024-04-04,Utilities,Electricity / mobile / internet,613.86,Cash
+494,3,2024-05-31,Healthcare,Medicine / consultation,1182.48,Credit Card
+495,3,2024-05-17,Healthcare,Medicine / consultation,797.41,Cash
+496,3,2024-05-05,Shopping,Personal shopping,444.97,Credit Card
+497,3,2024-05-05,Education,Course / books,2577.33,Net Banking
+498,3,2024-05-30,Travel,Trip / hotel / tickets,1510.73,Net Banking
+499,3,2024-05-20,Transport,Fuel / cab / metro,520.11,Credit Card
+500,3,2024-05-17,Entertainment,Movie / subscription,987.07,Net Banking
+501,3,2024-05-16,Shopping,Personal shopping,2101.36,UPI
+502,3,2024-05-14,Transport,Fuel / cab / metro,834.66,Net Banking
+503,3,2024-06-23,Healthcare,Medicine / consultation,2244.64,UPI
+504,3,2024-06-21,Entertainment,Movie / subscription,588.13,Net Banking
+505,3,2024-06-19,Entertainment,Movie / subscription,1340.31,Cash
+506,3,2024-06-20,Food,Food & groceries,1199.02,Cash
+507,3,2024-06-02,Food,Food & groceries,1282.78,Net Banking
+508,3,2024-06-01,Other,Miscellaneous expense,253.85,Cash
+509,3,2024-06-23,Transport,Fuel / cab / metro,249.6,Debit Card
+510,3,2024-06-30,Transport,Fuel / cab / metro,947.97,Cash
+511,3,2024-06-02,Travel,Trip / hotel / tickets,4967.86,Debit Card
+512,3,2024-07-22,Food,Food & groceries,706.58,Cash
+513,3,2024-07-06,Shopping,Personal shopping,1304.01,Cash
+514,3,2024-07-12,Travel,Trip / hotel / tickets,2685.5,Credit Card
+515,3,2024-07-08,Entertainment,Movie / subscription,467.24,Credit Card
+516,3,2024-07-10,Shopping,Personal shopping,1019.57,Credit Card
+517,3,2024-07-16,Utilities,Electricity / mobile / internet,1642.43,Credit Card
+518,3,2024-07-30,Shopping,Personal shopping,2093.56,Credit Card
+519,3,2024-07-18,Food,Food & groceries,1109.03,Cash
+520,3,2024-07-12,Travel,Trip / hotel / tickets,2988.29,Debit Card
+521,3,2024-07-23,Transport,Fuel / cab / metro,402.15,UPI
+522,3,2024-07-09,Transport,Fuel / cab / metro,575.46,Cash
+523,3,2024-08-30,Food,Food & groceries,1052.5,Net Banking
+524,3,2024-08-20,Utilities,Electricity / mobile / internet,647.09,Net Banking
+525,3,2024-08-29,Food,Food & groceries,262.24,Net Banking
+526,3,2024-08-04,Food,Food & groceries,557.2,Cash
+527,3,2024-08-22,Transport,Fuel / cab / metro,609.09,Debit Card
+528,3,2024-08-30,Housing,Monthly rent / maintenance,13953.17,Debit Card
+529,3,2024-08-29,Transport,Fuel / cab / metro,1127.24,Cash
+530,3,2024-08-31,Shopping,Personal shopping,938.26,Credit Card
+531,3,2024-09-25,Food,Food & groceries,275.84,UPI
+532,3,2024-09-24,Utilities,Electricity / mobile / internet,818.0,UPI
+533,3,2024-09-29,Travel,Trip / hotel / tickets,1715.38,Debit Card
+534,3,2024-09-27,Other,Miscellaneous expense,150.88,Cash
+535,3,2024-09-24,Healthcare,Medicine / consultation,762.36,Credit Card
+536,3,2024-09-19,Travel,Trip / hotel / tickets,753.75,Net Banking
+537,3,2024-09-10,Food,Food & groceries,1772.45,Cash
+538,3,2024-09-16,Other,Miscellaneous expense,860.62,Debit Card
+539,3,2024-09-07,Travel,Trip / hotel / tickets,3414.52,UPI
+540,3,2024-10-09,Food,Food & groceries,923.44,Debit Card
+541,3,2024-10-10,Housing,Monthly rent / maintenance,12034.01,Net Banking
+542,3,2024-10-20,Utilities,Electricity / mobile / internet,747.69,Cash
+543,3,2024-10-03,Education,Course / books,2561.12,Cash
+544,3,2024-10-05,Utilities,Electricity / mobile / internet,732.61,Cash
+545,3,2024-10-09,Transport,Fuel / cab / metro,357.81,Cash
+546,3,2024-10-31,Food,Food & groceries,1401.09,Credit Card
+547,3,2024-10-01,Transport,Fuel / cab / metro,889.63,Credit Card
+548,3,2024-10-02,Utilities,Electricity / mobile / internet,1646.98,UPI
+549,3,2024-11-17,Transport,Fuel / cab / metro,534.07,Credit Card
+550,3,2024-11-10,Utilities,Electricity / mobile / internet,1549.68,Credit Card
+551,3,2024-11-05,Entertainment,Movie / subscription,511.56,Cash
+552,3,2024-11-20,Food,Food & groceries,1391.33,Credit Card
+553,3,2024-11-16,Transport,Fuel / cab / metro,695.14,Net Banking
+554,3,2024-11-25,Education,Course / books,3802.41,Debit Card
+555,3,2024-11-26,Utilities,Electricity / mobile / internet,1472.47,UPI
+556,3,2024-11-12,Shopping,Personal shopping,1990.15,UPI
+557,3,2024-11-27,Travel,Trip / hotel / tickets,1350.81,Net Banking
+558,3,2024-11-18,Travel,Trip / hotel / tickets,1872.51,Debit Card
+559,3,2024-12-04,Transport,Fuel / cab / metro,662.78,Debit Card
+560,3,2024-12-29,Utilities,Electricity / mobile / internet,1279.89,Net Banking
+561,3,2024-12-05,Shopping,Personal shopping,478.03,Net Banking
+562,3,2024-12-18,Transport,Fuel / cab / metro,711.58,Cash
+563,3,2024-12-01,Utilities,Electricity / mobile / internet,954.71,Cash
+564,3,2024-12-07,Food,Food & groceries,184.89,Net Banking
+565,3,2024-12-23,Food,Food & groceries,866.39,UPI
+566,3,2024-12-29,Shopping,Personal shopping,492.82,UPI
+567,3,2025-01-25,Housing,Monthly rent / maintenance,12679.8,Debit Card
+568,3,2025-01-21,Healthcare,Medicine / consultation,2940.42,Cash
+569,3,2025-01-15,Transport,Fuel / cab / metro,1078.29,Cash
+570,3,2025-01-22,Transport,Fuel / cab / metro,844.66,Net Banking
+571,3,2025-01-04,Food,Food & groceries,1573.66,Debit Card
+572,3,2025-01-05,Other,Miscellaneous expense,650.28,Debit Card
+573,3,2025-01-10,Education,Course / books,3524.72,Cash
+574,3,2025-01-18,Utilities,Electricity / mobile / internet,1380.0,Cash
+575,3,2025-01-12,Education,Course / books,1490.05,Debit Card
+576,3,2025-01-24,Food,Food & groceries,1698.6,UPI
+577,3,2025-02-25,Education,Course / books,2176.96,UPI
+578,3,2025-02-20,Food,Food & groceries,289.01,UPI
+579,3,2025-02-28,Shopping,Personal shopping,2450.48,UPI
+580,3,2025-02-15,Food,Food & groceries,251.66,Debit Card
+581,3,2025-02-25,Shopping,Personal shopping,2714.03,UPI
+582,3,2025-02-08,Food,Food & groceries,1789.44,Net Banking
+583,3,2025-02-22,Transport,Fuel / cab / metro,749.67,Credit Card
+584,3,2025-03-22,Transport,Fuel / cab / metro,240.45,Net Banking
+585,3,2025-03-02,Food,Food & groceries,666.81,Net Banking
+586,3,2025-03-30,Other,Miscellaneous expense,1331.6,Debit Card
+587,3,2025-03-16,Entertainment,Movie / subscription,854.88,UPI
+588,3,2025-03-22,Other,Miscellaneous expense,1418.22,Cash
+589,3,2025-03-14,Healthcare,Medicine / consultation,1126.52,Cash
+590,3,2025-03-25,Food,Food & groceries,789.87,Net Banking
+591,3,2025-03-10,Shopping,Personal shopping,3017.89,Debit Card
+592,3,2025-04-14,Travel,Trip / hotel / tickets,3961.84,Net Banking
+593,3,2025-04-09,Shopping,Personal shopping,1542.94,Debit Card
+594,3,2025-04-15,Transport,Fuel / cab / metro,168.56,Credit Card
+595,3,2025-04-07,Food,Food & groceries,1353.83,UPI
+596,3,2025-04-20,Food,Food & groceries,1271.35,UPI
+597,3,2025-04-25,Travel,Trip / hotel / tickets,1791.35,Net Banking
+598,3,2025-04-16,Utilities,Electricity / mobile / internet,1405.93,Debit Card
+599,3,2025-04-30,Travel,Trip / hotel / tickets,2631.19,UPI
+600,3,2025-04-24,Food,Food & groceries,487.84,UPI
+601,3,2025-04-30,Healthcare,Medicine / consultation,2324.41,Debit Card
+602,3,2025-05-30,Entertainment,Movie / subscription,487.45,Debit Card
+603,3,2025-05-13,Shopping,Personal shopping,2781.64,Cash
+604,3,2025-05-09,Shopping,Personal shopping,1449.63,Credit Card
+605,3,2025-05-04,Shopping,Personal shopping,1891.29,Cash
+606,3,2025-05-07,Healthcare,Medicine / consultation,1130.64,Credit Card
+607,3,2025-05-28,Transport,Fuel / cab / metro,131.2,Debit Card
+608,3,2025-05-18,Healthcare,Medicine / consultation,294.6,Net Banking
+609,3,2025-05-05,Entertainment,Movie / subscription,839.0,Debit Card
+610,3,2025-05-27,Transport,Fuel / cab / metro,505.42,Debit Card
+611,3,2025-05-22,Shopping,Personal shopping,2394.75,Credit Card
+612,3,2025-05-31,Food,Food & groceries,1510.98,Cash
+613,3,2025-05-12,Shopping,Personal shopping,2644.87,Debit Card
+614,3,2025-06-30,Utilities,Electricity / mobile / internet,1278.97,Net Banking
+615,3,2025-06-17,Other,Miscellaneous expense,1440.13,UPI
+616,3,2025-06-27,Education,Course / books,797.32,UPI
+617,3,2025-06-27,Healthcare,Medicine / consultation,1384.08,Debit Card
+618,3,2025-06-07,Housing,Monthly rent / maintenance,10359.27,Net Banking
+619,3,2025-06-21,Shopping,Personal shopping,493.44,Net Banking
+620,3,2025-06-01,Travel,Trip / hotel / tickets,4523.85,UPI
+621,3,2025-06-01,Shopping,Personal shopping,1616.28,Net Banking
+622,3,2025-07-01,Food,Food & groceries,1763.52,Net Banking
+623,3,2025-07-26,Education,Course / books,3196.13,Debit Card
+624,3,2025-07-05,Food,Food & groceries,336.03,Debit Card
+625,3,2025-07-27,Food,Food & groceries,1032.86,Credit Card
+626,3,2025-07-12,Food,Food & groceries,822.97,Cash
+627,3,2025-07-23,Shopping,Personal shopping,1078.27,Debit Card
+628,3,2025-07-03,Transport,Fuel / cab / metro,1007.43,UPI
+629,3,2025-07-18,Food,Food & groceries,794.41,Cash
+630,3,2025-07-06,Housing,Monthly rent / maintenance,9085.05,UPI
+631,3,2025-07-26,Shopping,Personal shopping,1688.51,Credit Card
+632,3,2025-07-04,Entertainment,Movie / subscription,1565.63,Net Banking
+633,3,2025-07-29,Travel,Trip / hotel / tickets,2032.65,Net Banking
+634,3,2025-08-22,Food,Food & groceries,1677.14,Credit Card
+635,3,2025-08-02,Travel,Trip / hotel / tickets,3968.36,Debit Card
+636,3,2025-08-31,Other,Miscellaneous expense,540.28,Debit Card
+637,3,2025-08-23,Entertainment,Movie / subscription,1391.22,Cash
+638,3,2025-08-19,Other,Miscellaneous expense,518.99,Debit Card
+639,3,2025-08-22,Entertainment,Movie / subscription,1551.58,Net Banking
+640,3,2025-08-05,Transport,Fuel / cab / metro,926.28,UPI
+641,3,2025-08-02,Shopping,Personal shopping,3417.83,UPI
+642,3,2025-08-11,Transport,Fuel / cab / metro,1019.32,Net Banking
+643,3,2025-08-13,Healthcare,Medicine / consultation,2875.86,Credit Card
+644,3,2025-09-15,Entertainment,Movie / subscription,1442.85,Cash
+645,3,2025-09-13,Food,Food & groceries,1075.92,Cash
+646,3,2025-09-13,Food,Food & groceries,1129.12,UPI
+647,3,2025-09-08,Healthcare,Medicine / consultation,1062.29,UPI
+648,3,2025-09-23,Food,Food & groceries,429.84,Debit Card
+649,3,2025-09-04,Utilities,Electricity / mobile / internet,970.02,UPI
+650,3,2025-09-12,Housing,Monthly rent / maintenance,11774.41,Credit Card
+651,3,2025-10-15,Food,Food & groceries,483.57,Net Banking
+652,3,2025-10-01,Shopping,Personal shopping,1605.74,UPI
+653,3,2025-10-20,Transport,Fuel / cab / metro,184.23,Credit Card
+654,3,2025-10-14,Travel,Trip / hotel / tickets,771.58,Cash
+655,3,2025-10-18,Healthcare,Medicine / consultation,2243.32,Debit Card
+656,3,2025-10-13,Entertainment,Movie / subscription,429.81,Debit Card
+657,3,2025-10-16,Food,Food & groceries,667.83,Debit Card
+658,3,2025-11-10,Food,Food & groceries,627.06,Cash
+659,3,2025-11-08,Healthcare,Medicine / consultation,1243.09,Cash
+660,3,2025-11-04,Entertainment,Movie / subscription,472.65,Debit Card
+661,3,2025-11-11,Transport,Fuel / cab / metro,1142.68,Net Banking
+662,3,2025-11-15,Transport,Fuel / cab / metro,1045.66,Credit Card
+663,3,2025-11-21,Transport,Fuel / cab / metro,1002.36,Net Banking
+664,3,2025-11-23,Food,Food & groceries,699.48,Debit Card
+665,3,2025-12-31,Transport,Fuel / cab / metro,1160.32,Credit Card
+666,3,2025-12-16,Transport,Fuel / cab / metro,858.35,Net Banking
+667,3,2025-12-09,Healthcare,Medicine / consultation,1146.19,Cash
+668,3,2025-12-07,Transport,Fuel / cab / metro,1123.92,Net Banking
+669,3,2025-12-25,Other,Miscellaneous expense,351.9,Net Banking
+670,3,2025-12-31,Housing,Monthly rent / maintenance,15544.92,Debit Card
+671,3,2025-12-23,Transport,Fuel / cab / metro,406.29,UPI
+672,3,2025-12-14,Education,Course / books,3682.63,Cash
+673,3,2025-12-09,Food,Food & groceries,670.59,Debit Card
+674,3,2025-12-03,Utilities,Electricity / mobile / internet,1820.34,Cash
+675,4,2024-01-17,Shopping,Personal shopping,1582.58,Cash
+676,4,2024-01-12,Shopping,Personal shopping,2830.31,Net Banking
+677,4,2024-01-04,Entertainment,Movie / subscription,1658.76,Debit Card
+678,4,2024-01-21,Utilities,Electricity / mobile / internet,1039.02,Net Banking
+679,4,2024-01-22,Housing,Monthly rent / maintenance,17852.47,Cash
+680,4,2024-01-26,Other,Miscellaneous expense,564.24,Cash
+681,4,2024-01-08,Food,Food & groceries,339.74,Net Banking
+682,4,2024-01-23,Healthcare,Medicine / consultation,1784.48,Net Banking
+683,4,2024-01-15,Food,Food & groceries,786.07,Net Banking
+684,4,2024-01-01,Utilities,Electricity / mobile / internet,671.34,Cash
+685,4,2024-01-31,Food,Food & groceries,853.88,UPI
+686,4,2024-02-12,Education,Course / books,3420.6,Credit Card
+687,4,2024-02-17,Transport,Fuel / cab / metro,958.38,Cash
+688,4,2024-02-24,Transport,Fuel / cab / metro,189.34,Cash
+689,4,2024-02-26,Transport,Fuel / cab / metro,416.3,UPI
+690,4,2024-02-04,Housing,Monthly rent / maintenance,12087.7,Debit Card
+691,4,2024-02-17,Other,Miscellaneous expense,1136.69,Debit Card
+692,4,2024-02-14,Shopping,Personal shopping,1359.17,Cash
+693,4,2024-03-06,Healthcare,Medicine / consultation,1981.84,Cash
+694,4,2024-03-29,Transport,Fuel / cab / metro,905.87,Debit Card
+695,4,2024-03-01,Shopping,Personal shopping,1674.57,Debit Card
+696,4,2024-03-26,Food,Food & groceries,1398.77,UPI
+697,4,2024-03-18,Entertainment,Movie / subscription,1469.18,Debit Card
+698,4,2024-03-04,Transport,Fuel / cab / metro,300.72,Credit Card
+699,4,2024-03-31,Utilities,Electricity / mobile / internet,1281.07,Credit Card
+700,4,2024-03-19,Entertainment,Movie / subscription,1158.66,UPI
+701,4,2024-04-06,Transport,Fuel / cab / metro,592.8,Credit Card
+702,4,2024-04-22,Travel,Trip / hotel / tickets,4122.98,Debit Card
+703,4,2024-04-04,Transport,Fuel / cab / metro,347.2,Debit Card
+704,4,2024-04-13,Transport,Fuel / cab / metro,238.32,Cash
+705,4,2024-04-14,Entertainment,Movie / subscription,1098.43,Debit Card
+706,4,2024-04-30,Shopping,Personal shopping,2019.61,Debit Card
+707,4,2024-04-05,Shopping,Personal shopping,1866.85,Debit Card
+708,4,2024-04-02,Transport,Fuel / cab / metro,585.12,Credit Card
+709,4,2024-04-07,Other,Miscellaneous expense,778.45,Cash
+710,4,2024-05-22,Shopping,Personal shopping,1883.9,Cash
+711,4,2024-05-16,Transport,Fuel / cab / metro,1020.68,Debit Card
+712,4,2024-05-25,Food,Food & groceries,229.99,Debit Card
+713,4,2024-05-18,Transport,Fuel / cab / metro,387.84,Credit Card
+714,4,2024-05-24,Food,Food & groceries,920.86,Cash
+715,4,2024-05-04,Shopping,Personal shopping,662.28,Credit Card
+716,4,2024-05-12,Healthcare,Medicine / consultation,2514.03,Net Banking
+717,4,2024-05-24,Education,Course / books,666.44,Cash
+718,4,2024-05-04,Shopping,Personal shopping,3467.28,Debit Card
+719,4,2024-05-15,Transport,Fuel / cab / metro,1199.23,Credit Card
+720,4,2024-05-15,Transport,Fuel / cab / metro,994.74,UPI
+721,4,2024-06-23,Food,Food & groceries,1374.93,Credit Card
+722,4,2024-06-14,Travel,Trip / hotel / tickets,4239.52,Debit Card
+723,4,2024-06-27,Entertainment,Movie / subscription,1445.0,Debit Card
+724,4,2024-06-18,Education,Course / books,2780.3,Credit Card
+725,4,2024-06-23,Entertainment,Movie / subscription,427.82,Credit Card
+726,4,2024-06-28,Food,Food & groceries,613.1,Net Banking
+727,4,2024-06-04,Other,Miscellaneous expense,1051.02,Debit Card
+728,4,2024-06-30,Other,Miscellaneous expense,1199.97,UPI
+729,4,2024-07-28,Travel,Trip / hotel / tickets,1435.95,Debit Card
+730,4,2024-07-27,Food,Food & groceries,1332.46,Debit Card
+731,4,2024-07-16,Healthcare,Medicine / consultation,2109.65,Debit Card
+732,4,2024-07-14,Entertainment,Movie / subscription,593.38,Cash
+733,4,2024-07-29,Shopping,Personal shopping,2327.61,UPI
+734,4,2024-07-23,Transport,Fuel / cab / metro,919.78,Credit Card
+735,4,2024-07-19,Shopping,Personal shopping,1861.74,UPI
+736,4,2024-07-03,Travel,Trip / hotel / tickets,5613.57,Cash
+737,4,2024-07-28,Entertainment,Movie / subscription,1300.53,UPI
+738,4,2024-08-27,Transport,Fuel / cab / metro,1164.3,Debit Card
+739,4,2024-08-10,Shopping,Personal shopping,1333.17,Credit Card
+740,4,2024-08-28,Shopping,Personal shopping,717.9,Cash
+741,4,2024-08-25,Healthcare,Medicine / consultation,2708.93,UPI
+742,4,2024-08-27,Housing,Monthly rent / maintenance,14635.62,Cash
+743,4,2024-08-06,Housing,Monthly rent / maintenance,17364.9,Cash
+744,4,2024-08-14,Shopping,Personal shopping,3473.88,Debit Card
+745,4,2024-08-29,Other,Miscellaneous expense,1373.17,Credit Card
+746,4,2024-08-09,Food,Food & groceries,1691.02,UPI
+747,4,2024-08-12,Utilities,Electricity / mobile / internet,850.7,Debit Card
+748,4,2024-08-24,Housing,Monthly rent / maintenance,14630.44,Debit Card
+749,4,2024-09-01,Utilities,Electricity / mobile / internet,1666.66,Debit Card
+750,4,2024-09-08,Shopping,Personal shopping,724.64,Net Banking
+751,4,2024-09-23,Utilities,Electricity / mobile / internet,416.72,Credit Card
+752,4,2024-09-14,Education,Course / books,4452.62,Debit Card
+753,4,2024-09-03,Shopping,Personal shopping,1032.63,UPI
+754,4,2024-09-10,Food,Food & groceries,775.45,Debit Card
+755,4,2024-09-28,Transport,Fuel / cab / metro,990.97,Debit Card
+756,4,2024-09-03,Utilities,Electricity / mobile / internet,1618.85,Net Banking
+757,4,2024-09-06,Entertainment,Movie / subscription,1157.03,Cash
+758,4,2024-09-24,Transport,Fuel / cab / metro,318.62,Debit Card
+759,4,2024-10-07,Entertainment,Movie / subscription,879.93,UPI
+760,4,2024-10-04,Travel,Trip / hotel / tickets,1512.08,Net Banking
+761,4,2024-10-14,Utilities,Electricity / mobile / internet,1032.76,Credit Card
+762,4,2024-10-21,Healthcare,Medicine / consultation,931.41,UPI
+763,4,2024-10-24,Food,Food & groceries,1153.62,Net Banking
+764,4,2024-10-01,Food,Food & groceries,1704.87,Credit Card
+765,4,2024-10-07,Food,Food & groceries,1163.22,Cash
+766,4,2024-10-29,Transport,Fuel / cab / metro,141.12,Debit Card
+767,4,2024-10-16,Shopping,Personal shopping,660.78,Net Banking
+768,4,2024-10-01,Food,Food & groceries,1619.73,Credit Card
+769,4,2024-11-19,Food,Food & groceries,1574.52,Cash
+770,4,2024-11-25,Transport,Fuel / cab / metro,844.9,Cash
+771,4,2024-11-01,Other,Miscellaneous expense,1178.51,Net Banking
+772,4,2024-11-02,Housing,Monthly rent / maintenance,11359.67,UPI
+773,4,2024-11-10,Other,Miscellaneous expense,657.17,Net Banking
+774,4,2024-11-13,Healthcare,Medicine / consultation,1414.83,UPI
+775,4,2024-11-05,Utilities,Electricity / mobile / internet,1367.78,Credit Card
+776,4,2024-11-30,Food,Food & groceries,308.01,Debit Card
+777,4,2024-11-11,Other,Miscellaneous expense,317.53,Cash
+778,4,2024-12-22,Entertainment,Movie / subscription,1526.97,UPI
+779,4,2024-12-31,Transport,Fuel / cab / metro,569.98,Debit Card
+780,4,2024-12-14,Housing,Monthly rent / maintenance,9775.92,UPI
+781,4,2024-12-10,Shopping,Personal shopping,2248.26,Debit Card
+782,4,2024-12-23,Food,Food & groceries,1326.8,UPI
+783,4,2024-12-17,Food,Food & groceries,1723.89,Net Banking
+784,4,2024-12-06,Healthcare,Medicine / consultation,2232.11,Credit Card
+785,4,2024-12-09,Food,Food & groceries,1445.42,UPI
+786,4,2024-12-26,Healthcare,Medicine / consultation,330.73,Cash
+787,4,2024-12-23,Food,Food & groceries,283.47,Net Banking
+788,4,2024-12-17,Entertainment,Movie / subscription,968.64,Credit Card
+789,4,2025-01-12,Shopping,Personal shopping,2114.04,Debit Card
+790,4,2025-01-19,Food,Food & groceries,346.71,UPI
+791,4,2025-01-02,Food,Food & groceries,1004.3,UPI
+792,4,2025-01-13,Food,Food & groceries,944.26,Debit Card
+793,4,2025-01-02,Food,Food & groceries,1735.75,Net Banking
+794,4,2025-01-21,Education,Course / books,3356.08,Cash
+795,4,2025-01-30,Food,Food & groceries,582.19,Credit Card
+796,4,2025-02-04,Education,Course / books,2786.14,Net Banking
+797,4,2025-02-08,Utilities,Electricity / mobile / internet,494.81,Net Banking
+798,4,2025-02-03,Other,Miscellaneous expense,1435.71,Cash
+799,4,2025-02-10,Travel,Trip / hotel / tickets,5186.46,Credit Card
+800,4,2025-02-12,Food,Food & groceries,919.93,Debit Card
+801,4,2025-02-24,Transport,Fuel / cab / metro,958.65,Net Banking
+802,4,2025-02-16,Food,Food & groceries,776.6,Debit Card
+803,4,2025-02-26,Utilities,Electricity / mobile / internet,1383.81,Debit Card
+804,4,2025-02-01,Food,Food & groceries,1690.48,Debit Card
+805,4,2025-03-29,Transport,Fuel / cab / metro,1020.32,UPI
+806,4,2025-03-22,Other,Miscellaneous expense,102.05,Cash
+807,4,2025-03-04,Education,Course / books,3408.86,Debit Card
+808,4,2025-03-16,Shopping,Personal shopping,1062.14,UPI
+809,4,2025-03-09,Other,Miscellaneous expense,299.32,UPI
+810,4,2025-03-28,Housing,Monthly rent / maintenance,11083.25,Net Banking
+811,4,2025-03-15,Transport,Fuel / cab / metro,1083.05,UPI
+812,4,2025-03-21,Entertainment,Movie / subscription,983.96,Cash
+813,4,2025-03-14,Food,Food & groceries,1099.87,Debit Card
+814,4,2025-03-11,Food,Food & groceries,602.81,Cash
+815,4,2025-03-11,Utilities,Electricity / mobile / internet,1723.64,Cash
+816,4,2025-04-05,Food,Food & groceries,1708.56,Net Banking
+817,4,2025-04-15,Food,Food & groceries,351.17,Cash
+818,4,2025-04-12,Transport,Fuel / cab / metro,215.23,Debit Card
+819,4,2025-04-28,Shopping,Personal shopping,1782.71,UPI
+820,4,2025-04-10,Food,Food & groceries,1488.31,Net Banking
+821,4,2025-04-11,Housing,Monthly rent / maintenance,16523.32,Debit Card
+822,4,2025-04-12,Food,Food & groceries,582.11,Cash
+823,4,2025-04-09,Shopping,Personal shopping,2466.99,Debit Card
+824,4,2025-04-15,Housing,Monthly rent / maintenance,12639.53,Net Banking
+825,4,2025-05-04,Shopping,Personal shopping,603.12,Debit Card
+826,4,2025-05-25,Food,Food & groceries,279.9,Debit Card
+827,4,2025-05-12,Food,Food & groceries,1514.35,UPI
+828,4,2025-05-27,Entertainment,Movie / subscription,577.05,UPI
+829,4,2025-05-29,Housing,Monthly rent / maintenance,9580.25,Cash
+830,4,2025-05-28,Education,Course / books,867.91,Credit Card
+831,4,2025-05-02,Food,Food & groceries,1706.49,Debit Card
+832,4,2025-05-24,Other,Miscellaneous expense,706.42,Cash
+833,4,2025-05-14,Shopping,Personal shopping,1524.73,Debit Card
+834,4,2025-05-09,Transport,Fuel / cab / metro,1097.3,Credit Card
+835,4,2025-05-20,Shopping,Personal shopping,775.62,Net Banking
+836,4,2025-05-16,Entertainment,Movie / subscription,1218.01,Cash
+837,4,2025-06-13,Shopping,Personal shopping,580.71,Debit Card
+838,4,2025-06-26,Transport,Fuel / cab / metro,799.77,Net Banking
+839,4,2025-06-18,Food,Food & groceries,1790.42,UPI
+840,4,2025-06-12,Other,Miscellaneous expense,1194.68,Cash
+841,4,2025-06-30,Shopping,Personal shopping,1850.97,Net Banking
+842,4,2025-06-06,Shopping,Personal shopping,1542.82,UPI
+843,4,2025-06-29,Transport,Fuel / cab / metro,325.3,Credit Card
+844,4,2025-06-17,Housing,Monthly rent / maintenance,17923.78,Credit Card
+845,4,2025-06-06,Healthcare,Medicine / consultation,2998.92,UPI
+846,4,2025-06-18,Food,Food & groceries,570.67,UPI
+847,4,2025-06-19,Healthcare,Medicine / consultation,2856.46,Cash
+848,4,2025-07-06,Other,Miscellaneous expense,1488.16,Debit Card
+849,4,2025-07-24,Food,Food & groceries,695.17,Credit Card
+850,4,2025-07-23,Travel,Trip / hotel / tickets,863.6,Credit Card
+851,4,2025-07-19,Other,Miscellaneous expense,889.05,Debit Card
+852,4,2025-07-16,Education,Course / books,3741.6,Net Banking
+853,4,2025-07-03,Transport,Fuel / cab / metro,629.29,UPI
+854,4,2025-07-17,Food,Food & groceries,534.47,Cash
+855,4,2025-07-07,Housing,Monthly rent / maintenance,17261.07,Debit Card
+856,4,2025-07-26,Transport,Fuel / cab / metro,278.76,Credit Card
+857,4,2025-08-30,Housing,Monthly rent / maintenance,14279.48,Debit Card
+858,4,2025-08-28,Healthcare,Medicine / consultation,2577.82,Credit Card
+859,4,2025-08-31,Other,Miscellaneous expense,623.03,Cash
+860,4,2025-08-11,Entertainment,Movie / subscription,705.33,Debit Card
+861,4,2025-08-14,Other,Miscellaneous expense,1125.29,Cash
+862,4,2025-08-31,Utilities,Electricity / mobile / internet,713.56,Net Banking
+863,4,2025-08-26,Utilities,Electricity / mobile / internet,2071.92,Credit Card
+864,4,2025-09-13,Utilities,Electricity / mobile / internet,1866.02,Credit Card
+865,4,2025-09-06,Utilities,Electricity / mobile / internet,930.13,UPI
+866,4,2025-09-13,Other,Miscellaneous expense,1428.18,Net Banking
+867,4,2025-09-30,Housing,Monthly rent / maintenance,14421.5,Net Banking
+868,4,2025-09-30,Food,Food & groceries,1096.19,Cash
+869,4,2025-09-08,Food,Food & groceries,1387.46,Credit Card
+870,4,2025-09-29,Other,Miscellaneous expense,335.04,UPI
+871,4,2025-09-24,Education,Course / books,3180.1,Credit Card
+872,4,2025-10-23,Housing,Monthly rent / maintenance,10887.16,UPI
+873,4,2025-10-24,Transport,Fuel / cab / metro,961.46,UPI
+874,4,2025-10-14,Housing,Monthly rent / maintenance,12943.98,Debit Card
+875,4,2025-10-13,Travel,Trip / hotel / tickets,3559.88,Credit Card
+876,4,2025-10-16,Shopping,Personal shopping,624.57,Net Banking
+877,4,2025-10-06,Utilities,Electricity / mobile / internet,1636.89,Cash
+878,4,2025-10-10,Food,Food & groceries,1550.14,UPI
+879,4,2025-10-03,Transport,Fuel / cab / metro,1145.86,Credit Card
+880,4,2025-10-24,Food,Food & groceries,788.24,UPI
+881,4,2025-10-03,Shopping,Personal shopping,3174.0,Credit Card
+882,4,2025-11-23,Other,Miscellaneous expense,1350.52,UPI
+883,4,2025-11-20,Transport,Fuel / cab / metro,812.07,Cash
+884,4,2025-11-07,Food,Food & groceries,344.04,Debit Card
+885,4,2025-11-30,Transport,Fuel / cab / metro,700.61,Net Banking
+886,4,2025-11-08,Food,Food & groceries,636.07,UPI
+887,4,2025-11-27,Housing,Monthly rent / maintenance,14145.93,Cash
+888,4,2025-11-14,Food,Food & groceries,764.54,UPI
+889,4,2025-11-20,Transport,Fuel / cab / metro,821.46,Cash
+890,4,2025-11-06,Food,Food & groceries,221.69,Credit Card
+891,4,2025-11-04,Other,Miscellaneous expense,763.0,Credit Card
+892,4,2025-11-29,Healthcare,Medicine / consultation,1545.1,Credit Card
+893,4,2025-12-12,Utilities,Electricity / mobile / internet,1097.55,Cash
+894,4,2025-12-09,Transport,Fuel / cab / metro,579.27,Cash
+895,4,2025-12-09,Shopping,Personal shopping,1023.98,Net Banking
+896,4,2025-12-22,Housing,Monthly rent / maintenance,15770.12,UPI
+897,4,2025-12-18,Food,Food & groceries,736.94,Cash
+898,4,2025-12-18,Other,Miscellaneous expense,925.62,UPI
+899,4,2025-12-14,Education,Course / books,3773.62,Net Banking
+900,5,2024-01-29,Travel,Trip / hotel / tickets,3453.98,Debit Card
+901,5,2024-01-29,Shopping,Personal shopping,552.66,UPI
+902,5,2024-01-26,Shopping,Personal shopping,3181.46,Net Banking
+903,5,2024-01-04,Utilities,Electricity / mobile / internet,1516.49,Cash
+904,5,2024-01-07,Food,Food & groceries,1774.68,Debit Card
+905,5,2024-01-22,Food,Food & groceries,865.87,Cash
+906,5,2024-01-05,Food,Food & groceries,1512.55,Net Banking
+907,5,2024-01-30,Food,Food & groceries,1655.5,UPI
+908,5,2024-01-18,Food,Food & groceries,1081.31,Credit Card
+909,5,2024-01-30,Travel,Trip / hotel / tickets,3714.19,UPI
+910,5,2024-01-17,Healthcare,Medicine / consultation,1963.41,Cash
+911,5,2024-01-19,Food,Food & groceries,422.42,Net Banking
+912,5,2024-02-04,Healthcare,Medicine / consultation,2834.04,Net Banking
+913,5,2024-02-28,Healthcare,Medicine / consultation,2410.8,Net Banking
+914,5,2024-02-09,Travel,Trip / hotel / tickets,5791.78,Cash
+915,5,2024-02-16,Utilities,Electricity / mobile / internet,1429.64,UPI
+916,5,2024-02-20,Food,Food & groceries,832.82,Net Banking
+917,5,2024-02-13,Utilities,Electricity / mobile / internet,1123.1,Credit Card
+918,5,2024-02-16,Utilities,Electricity / mobile / internet,488.72,Credit Card
+919,5,2024-02-27,Travel,Trip / hotel / tickets,817.35,Credit Card
+920,5,2024-02-28,Transport,Fuel / cab / metro,1023.99,UPI
+921,5,2024-02-10,Other,Miscellaneous expense,419.14,Cash
+922,5,2024-02-24,Healthcare,Medicine / consultation,1132.39,Cash
+923,5,2024-03-07,Utilities,Electricity / mobile / internet,738.28,Cash
+924,5,2024-03-28,Healthcare,Medicine / consultation,2338.61,Credit Card
+925,5,2024-03-06,Education,Course / books,2561.08,UPI
+926,5,2024-03-05,Transport,Fuel / cab / metro,647.61,Net Banking
+927,5,2024-03-07,Travel,Trip / hotel / tickets,867.9,Debit Card
+928,5,2024-03-15,Education,Course / books,1497.96,UPI
+929,5,2024-03-09,Travel,Trip / hotel / tickets,4786.88,Credit Card
+930,5,2024-03-21,Education,Course / books,2520.51,UPI
+931,5,2024-03-16,Utilities,Electricity / mobile / internet,835.49,Net Banking
+932,5,2024-03-16,Shopping,Personal shopping,3373.67,Net Banking
+933,5,2024-03-27,Shopping,Personal shopping,1401.6,Credit Card
+934,5,2024-04-01,Education,Course / books,861.57,Cash
+935,5,2024-04-25,Housing,Monthly rent / maintenance,16684.39,Debit Card
+936,5,2024-04-22,Travel,Trip / hotel / tickets,4454.8,Debit Card
+937,5,2024-04-01,Food,Food & groceries,843.4,UPI
+938,5,2024-04-06,Shopping,Personal shopping,723.41,Net Banking
+939,5,2024-04-20,Education,Course / books,1395.08,Credit Card
+940,5,2024-04-09,Utilities,Electricity / mobile / internet,1676.86,Cash
+941,5,2024-04-15,Travel,Trip / hotel / tickets,5639.2,Credit Card
+942,5,2024-04-17,Food,Food & groceries,669.48,Net Banking
+943,5,2024-04-17,Transport,Fuel / cab / metro,194.59,Credit Card
+944,5,2024-04-10,Entertainment,Movie / subscription,1129.72,Credit Card
+945,5,2024-04-11,Utilities,Electricity / mobile / internet,1267.13,Credit Card
+946,5,2024-05-21,Transport,Fuel / cab / metro,390.11,Credit Card
+947,5,2024-05-08,Food,Food & groceries,1018.02,UPI
+948,5,2024-05-20,Education,Course / books,3709.45,Cash
+949,5,2024-05-24,Utilities,Electricity / mobile / internet,1625.36,UPI
+950,5,2024-05-09,Utilities,Electricity / mobile / internet,2195.44,Cash
+951,5,2024-05-19,Transport,Fuel / cab / metro,905.14,Net Banking
+952,5,2024-05-23,Education,Course / books,1872.67,Debit Card
+953,5,2024-05-16,Utilities,Electricity / mobile / internet,1548.96,Credit Card
+954,5,2024-05-27,Shopping,Personal shopping,3005.34,Net Banking
+955,5,2024-05-05,Food,Food & groceries,338.12,Credit Card
+956,5,2024-05-30,Utilities,Electricity / mobile / internet,1406.26,Debit Card
+957,5,2024-05-21,Other,Miscellaneous expense,1359.43,UPI
+958,5,2024-06-10,Transport,Fuel / cab / metro,913.52,Cash
+959,5,2024-06-09,Healthcare,Medicine / consultation,1161.12,Net Banking
+960,5,2024-06-16,Transport,Fuel / cab / metro,1033.36,UPI
+961,5,2024-06-20,Travel,Trip / hotel / tickets,4084.73,UPI
+962,5,2024-06-04,Shopping,Personal shopping,922.54,Cash
+963,5,2024-06-28,Shopping,Personal shopping,1621.94,Debit Card
+964,5,2024-06-14,Food,Food & groceries,504.48,Net Banking
+965,5,2024-06-05,Travel,Trip / hotel / tickets,6422.57,Credit Card
+966,5,2024-07-11,Food,Food & groceries,310.91,Debit Card
+967,5,2024-07-15,Transport,Fuel / cab / metro,144.98,Credit Card
+968,5,2024-07-19,Food,Food & groceries,1433.14,Debit Card
+969,5,2024-07-03,Shopping,Personal shopping,2743.42,Debit Card
+970,5,2024-07-13,Entertainment,Movie / subscription,1195.25,Cash
+971,5,2024-07-02,Other,Miscellaneous expense,636.64,Net Banking
+972,5,2024-07-01,Food,Food & groceries,784.42,Credit Card
+973,5,2024-07-01,Healthcare,Medicine / consultation,1710.34,UPI
+974,5,2024-07-23,Entertainment,Movie / subscription,560.56,Credit Card
+975,5,2024-07-17,Transport,Fuel / cab / metro,195.03,Net Banking
+976,5,2024-07-02,Transport,Fuel / cab / metro,153.12,Credit Card
+977,5,2024-07-17,Other,Miscellaneous expense,738.3,Net Banking
+978,5,2024-08-05,Transport,Fuel / cab / metro,1074.53,Credit Card
+979,5,2024-08-25,Other,Miscellaneous expense,786.25,Debit Card
+980,5,2024-08-26,Food,Food & groceries,1649.17,Cash
+981,5,2024-08-05,Housing,Monthly rent / maintenance,11018.89,Debit Card
+982,5,2024-08-06,Utilities,Electricity / mobile / internet,1461.45,UPI
+983,5,2024-08-02,Transport,Fuel / cab / metro,808.61,Cash
+984,5,2024-08-18,Travel,Trip / hotel / tickets,2183.58,Net Banking
+985,5,2024-08-22,Housing,Monthly rent / maintenance,17952.12,UPI
+986,5,2024-08-23,Utilities,Electricity / mobile / internet,435.54,UPI
+987,5,2024-08-18,Transport,Fuel / cab / metro,505.88,Credit Card
+988,5,2024-08-23,Shopping,Personal shopping,790.01,UPI
+989,5,2024-09-17,Transport,Fuel / cab / metro,193.1,Credit Card
+990,5,2024-09-14,Entertainment,Movie / subscription,1306.2,UPI
+991,5,2024-09-10,Shopping,Personal shopping,2276.63,UPI
+992,5,2024-09-20,Healthcare,Medicine / consultation,1618.78,Debit Card
+993,5,2024-09-07,Healthcare,Medicine / consultation,2536.62,Credit Card
+994,5,2024-09-02,Utilities,Electricity / mobile / internet,931.63,Net Banking
+995,5,2024-09-30,Shopping,Personal shopping,964.62,Cash
+996,5,2024-09-22,Transport,Fuel / cab / metro,83.07,UPI
+997,5,2024-09-22,Travel,Trip / hotel / tickets,5544.35,Cash
+998,5,2024-10-03,Other,Miscellaneous expense,1191.34,UPI
+999,5,2024-10-15,Travel,Trip / hotel / tickets,4437.15,Credit Card
+1000,5,2024-10-27,Food,Food & groceries,261.13,Debit Card
+1001,5,2024-10-12,Travel,Trip / hotel / tickets,5643.04,Credit Card
+1002,5,2024-10-28,Transport,Fuel / cab / metro,209.81,UPI
+1003,5,2024-10-21,Housing,Monthly rent / maintenance,10245.55,Debit Card
+1004,5,2024-10-31,Transport,Fuel / cab / metro,1081.87,Net Banking
+1005,5,2024-10-12,Food,Food & groceries,1367.57,Credit Card
+1006,5,2024-11-15,Food,Food & groceries,828.41,Credit Card
+1007,5,2024-11-16,Education,Course / books,3259.61,Cash
+1008,5,2024-11-04,Utilities,Electricity / mobile / internet,1834.44,Debit Card
+1009,5,2024-11-28,Utilities,Electricity / mobile / internet,505.56,Debit Card
+1010,5,2024-11-16,Food,Food & groceries,1656.19,Net Banking
+1011,5,2024-11-13,Utilities,Electricity / mobile / internet,726.27,Credit Card
+1012,5,2024-11-29,Entertainment,Movie / subscription,1573.25,Debit Card
+1013,5,2024-11-29,Shopping,Personal shopping,1861.99,Cash
+1014,5,2024-12-11,Housing,Monthly rent / maintenance,11354.52,UPI
+1015,5,2024-12-25,Utilities,Electricity / mobile / internet,1620.27,Net Banking
+1016,5,2024-12-31,Utilities,Electricity / mobile / internet,803.17,Credit Card
+1017,5,2024-12-20,Shopping,Personal shopping,2502.37,UPI
+1018,5,2024-12-16,Transport,Fuel / cab / metro,893.85,Credit Card
+1019,5,2024-12-05,Utilities,Electricity / mobile / internet,1554.53,Net Banking
+1020,5,2024-12-01,Travel,Trip / hotel / tickets,4254.9,Debit Card
+1021,5,2024-12-16,Shopping,Personal shopping,1801.72,Debit Card
+1022,5,2024-12-08,Food,Food & groceries,976.47,Credit Card
+1023,5,2024-12-08,Other,Miscellaneous expense,170.49,Net Banking
+1024,5,2025-01-03,Transport,Fuel / cab / metro,995.16,Cash
+1025,5,2025-01-03,Shopping,Personal shopping,2133.71,Cash
+1026,5,2025-01-16,Shopping,Personal shopping,679.86,UPI
+1027,5,2025-01-18,Food,Food & groceries,847.99,Net Banking
+1028,5,2025-01-20,Housing,Monthly rent / maintenance,9818.06,Net Banking
+1029,5,2025-01-18,Entertainment,Movie / subscription,1618.68,Debit Card
+1030,5,2025-01-11,Utilities,Electricity / mobile / internet,1221.17,Credit Card
+1031,5,2025-01-28,Education,Course / books,3766.35,Cash
+1032,5,2025-01-20,Transport,Fuel / cab / metro,939.51,Cash
+1033,5,2025-01-15,Utilities,Electricity / mobile / internet,1053.93,UPI
+1034,5,2025-01-01,Food,Food & groceries,1247.43,Credit Card
+1035,5,2025-01-26,Transport,Fuel / cab / metro,789.7,Credit Card
+1036,5,2025-02-02,Shopping,Personal shopping,2546.71,Debit Card
+1037,5,2025-02-24,Shopping,Personal shopping,2929.88,Cash
+1038,5,2025-02-07,Food,Food & groceries,1169.58,UPI
+1039,5,2025-02-15,Other,Miscellaneous expense,650.06,Debit Card
+1040,5,2025-02-14,Utilities,Electricity / mobile / internet,593.98,UPI
+1041,5,2025-02-19,Other,Miscellaneous expense,1272.45,UPI
+1042,5,2025-02-22,Healthcare,Medicine / consultation,1488.89,Net Banking
+1043,5,2025-02-16,Other,Miscellaneous expense,288.49,UPI
+1044,5,2025-02-14,Shopping,Personal shopping,455.43,Net Banking
+1045,5,2025-02-06,Shopping,Personal shopping,1926.67,Net Banking
+1046,5,2025-02-04,Food,Food & groceries,1500.7,Cash
+1047,5,2025-03-17,Entertainment,Movie / subscription,1606.45,Cash
+1048,5,2025-03-23,Transport,Fuel / cab / metro,762.07,Debit Card
+1049,5,2025-03-10,Food,Food & groceries,1741.02,Cash
+1050,5,2025-03-20,Education,Course / books,1052.72,Net Banking
+1051,5,2025-03-28,Transport,Fuel / cab / metro,865.67,Credit Card
+1052,5,2025-03-21,Utilities,Electricity / mobile / internet,2083.92,Debit Card
+1053,5,2025-03-10,Food,Food & groceries,1191.15,Credit Card
+1054,5,2025-03-23,Other,Miscellaneous expense,285.74,Debit Card
+1055,5,2025-03-11,Shopping,Personal shopping,2521.8,UPI
+1056,5,2025-03-19,Healthcare,Medicine / consultation,1796.27,Net Banking
+1057,5,2025-03-22,Other,Miscellaneous expense,1094.17,Net Banking
+1058,5,2025-03-26,Food,Food & groceries,1552.63,UPI
+1059,5,2025-04-02,Food,Food & groceries,797.01,UPI
+1060,5,2025-04-06,Food,Food & groceries,1395.3,Credit Card
+1061,5,2025-04-02,Utilities,Electricity / mobile / internet,663.57,Credit Card
+1062,5,2025-04-12,Food,Food & groceries,1056.7,Cash
+1063,5,2025-04-24,Food,Food & groceries,1586.22,Net Banking
+1064,5,2025-04-18,Travel,Trip / hotel / tickets,5005.99,Cash
+1065,5,2025-04-26,Food,Food & groceries,1450.58,Credit Card
+1066,5,2025-04-13,Utilities,Electricity / mobile / internet,484.56,Cash
+1067,5,2025-04-22,Transport,Fuel / cab / metro,962.68,Credit Card
+1068,5,2025-04-24,Other,Miscellaneous expense,175.32,Credit Card
+1069,5,2025-04-28,Food,Food & groceries,1587.54,Cash
+1070,5,2025-05-21,Travel,Trip / hotel / tickets,4786.85,Credit Card
+1071,5,2025-05-20,Healthcare,Medicine / consultation,1753.19,Debit Card
+1072,5,2025-05-10,Healthcare,Medicine / consultation,2901.8,Cash
+1073,5,2025-05-06,Food,Food & groceries,1285.91,Debit Card
+1074,5,2025-05-02,Utilities,Electricity / mobile / internet,614.84,Cash
+1075,5,2025-05-06,Food,Food & groceries,608.07,Net Banking
+1076,5,2025-05-15,Education,Course / books,522.58,Debit Card
+1077,5,2025-05-20,Housing,Monthly rent / maintenance,17357.65,UPI
+1078,5,2025-06-16,Entertainment,Movie / subscription,1242.12,Net Banking
+1079,5,2025-06-23,Shopping,Personal shopping,533.22,Credit Card
+1080,5,2025-06-17,Shopping,Personal shopping,3362.36,UPI
+1081,5,2025-06-18,Healthcare,Medicine / consultation,688.27,Net Banking
+1082,5,2025-06-29,Transport,Fuel / cab / metro,471.33,Debit Card
+1083,5,2025-06-10,Utilities,Electricity / mobile / internet,995.92,Debit Card
+1084,5,2025-06-16,Other,Miscellaneous expense,965.59,Net Banking
+1085,5,2025-06-01,Education,Course / books,4424.53,UPI
+1086,5,2025-06-29,Utilities,Electricity / mobile / internet,1202.2,Net Banking
+1087,5,2025-06-02,Travel,Trip / hotel / tickets,2114.2,Credit Card
+1088,5,2025-06-04,Transport,Fuel / cab / metro,971.75,Cash
+1089,5,2025-06-01,Food,Food & groceries,1352.84,Net Banking
+1090,5,2025-07-16,Shopping,Personal shopping,1927.95,UPI
+1091,5,2025-07-11,Transport,Fuel / cab / metro,809.71,Net Banking
+1092,5,2025-07-31,Food,Food & groceries,335.45,Net Banking
+1093,5,2025-07-07,Shopping,Personal shopping,2306.19,Debit Card
+1094,5,2025-07-04,Travel,Trip / hotel / tickets,3160.41,Debit Card
+1095,5,2025-07-24,Shopping,Personal shopping,2548.78,Cash
+1096,5,2025-07-24,Utilities,Electricity / mobile / internet,2091.55,Debit Card
+1097,5,2025-07-02,Housing,Monthly rent / maintenance,15451.81,UPI
+1098,5,2025-07-09,Food,Food & groceries,468.35,Net Banking
+1099,5,2025-08-09,Entertainment,Movie / subscription,525.62,Cash
+1100,5,2025-08-14,Transport,Fuel / cab / metro,785.84,Credit Card
+1101,5,2025-08-18,Housing,Monthly rent / maintenance,15059.69,UPI
+1102,5,2025-08-25,Utilities,Electricity / mobile / internet,1513.03,Net Banking
+1103,5,2025-08-12,Housing,Monthly rent / maintenance,16634.26,Net Banking
+1104,5,2025-08-10,Food,Food & groceries,1454.76,Net Banking
+1105,5,2025-08-15,Food,Food & groceries,1419.74,Cash
+1106,5,2025-09-06,Education,Course / books,623.28,Net Banking
+1107,5,2025-09-26,Food,Food & groceries,1389.74,Net Banking
+1108,5,2025-09-10,Transport,Fuel / cab / metro,790.13,Credit Card
+1109,5,2025-09-28,Other,Miscellaneous expense,115.61,Net Banking
+1110,5,2025-09-19,Food,Food & groceries,247.67,Net Banking
+1111,5,2025-09-03,Transport,Fuel / cab / metro,693.23,Credit Card
+1112,5,2025-09-24,Food,Food & groceries,1381.12,Credit Card
+1113,5,2025-09-28,Food,Food & groceries,1647.12,Net Banking
+1114,5,2025-09-20,Food,Food & groceries,478.07,Credit Card
+1115,5,2025-09-26,Food,Food & groceries,473.8,Net Banking
+1116,5,2025-10-18,Travel,Trip / hotel / tickets,6107.75,Cash
+1117,5,2025-10-22,Utilities,Electricity / mobile / internet,531.66,UPI
+1118,5,2025-10-19,Food,Food & groceries,499.82,Cash
+1119,5,2025-10-22,Other,Miscellaneous expense,599.99,Debit Card
+1120,5,2025-10-29,Food,Food & groceries,1183.62,Debit Card
+1121,5,2025-10-20,Transport,Fuel / cab / metro,584.72,Credit Card
+1122,5,2025-10-19,Utilities,Electricity / mobile / internet,674.31,Credit Card
+1123,5,2025-11-11,Other,Miscellaneous expense,336.1,Debit Card
+1124,5,2025-11-21,Healthcare,Medicine / consultation,2208.55,Cash
+1125,5,2025-11-22,Food,Food & groceries,762.37,Credit Card
+1126,5,2025-11-12,Travel,Trip / hotel / tickets,3384.52,Credit Card
+1127,5,2025-11-21,Shopping,Personal shopping,648.26,Net Banking
+1128,5,2025-11-27,Food,Food & groceries,634.6,Debit Card
+1129,5,2025-11-24,Travel,Trip / hotel / tickets,1839.31,UPI
+1130,5,2025-11-28,Utilities,Electricity / mobile / internet,2005.79,Net Banking
+1131,5,2025-11-19,Entertainment,Movie / subscription,1490.86,Cash
+1132,5,2025-12-09,Food,Food & groceries,239.38,Net Banking
+1133,5,2025-12-21,Travel,Trip / hotel / tickets,3830.13,Debit Card
+1134,5,2025-12-25,Transport,Fuel / cab / metro,330.1,Net Banking
+1135,5,2025-12-15,Utilities,Electricity / mobile / internet,923.8,Net Banking
+1136,5,2025-12-17,Shopping,Personal shopping,1569.71,UPI
+1137,5,2025-12-26,Utilities,Electricity / mobile / internet,1926.37,Net Banking
+1138,5,2025-12-05,Utilities,Electricity / mobile / internet,1762.97,Cash
+1139,5,2025-12-19,Food,Food & groceries,1097.5,Debit Card
+1140,5,2025-12-12,Utilities,Electricity / mobile / internet,1270.31,UPI
+1141,5,2025-12-03,Food,Food & groceries,969.98,Credit Card
+1142,5,2025-12-07,Transport,Fuel / cab / metro,127.95,Net Banking
