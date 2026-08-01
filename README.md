@@ -44,6 +44,9 @@ expense-tracker/
 After building the Power BI report, add a screenshot at `images/dashboard-preview.png`, then replace this note with:
 
 `![Expense Tracker Dashboard](images/dashboard-preview.png)`
+## Dashboard Preview
+
+![Expense Tracker Dashboard](images/dashboard-preview.png)
 
 ## Dataset
 The sample dataset is synthetic and created only for portfolio/demo purposes. It contains no real personal or financial information.
